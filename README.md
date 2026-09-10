@@ -12,7 +12,7 @@ Welcome to my **Data Structures & Algorithms journey in Java!**  This repository
 - Prepare for coding interviews and internships.
 ## Topics Ongoing
 
-- Recursion
+- Arrays
 
 ## Topics completed
 
